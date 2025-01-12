@@ -1,5 +1,5 @@
 # Gpu-Accelerated ByteBeat Renderer
-Imagine [CABBR](https://github.com/cabfile/cabbr) but instead of using the CPU, it used the GPU. Yeah. That's what this is.
+Imagine [CABBR](https://github.com/cabfile/cabbr), but instead of using the CPU, it used the GPU. Yeah. That's what this is.
 
 Note that this is more of a fun experiment than something that should be used seriously.
 
